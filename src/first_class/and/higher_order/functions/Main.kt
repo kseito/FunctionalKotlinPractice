@@ -1,4 +1,4 @@
-package `first-class`.and.`higher-order`.functions
+package first_class.and.higher_order.functions
 
 fun main(args: Array<String>) {
     println(capitalize("hello world!"))
